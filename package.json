@@ -1,0 +1,26 @@
+{
+  "name": "milovansrejic-minimodul",
+  "version": "1.0.0",
+  "description": "\"My first mini module\"",
+  "main": "milovannrt1117.zadatak1.js",
+  "dependencies": {
+    "mathjs": "^6.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milovan1234/VezbanjeNodeJs.git"
+  },
+  "keywords": [
+    "shared"
+  ],
+  "author": "Milovan Srejic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milovan1234/VezbanjeNodeJs/issues"
+  },
+  "homepage": "https://github.com/milovan1234/VezbanjeNodeJs#readme"
+}
